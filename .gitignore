@@ -1,1 +1,4 @@
-/target
+target
+test
+config.toml
+.DS_Store
